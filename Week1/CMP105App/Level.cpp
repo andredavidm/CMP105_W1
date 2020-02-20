@@ -81,13 +81,13 @@ void Level::update()
 		}
 	}
 	
-	/*
+	
 	sf::Vector2u pos = window->getSize();
 	
 	rect.setPosition(pos.x-60,pos.y-60);
 
 	//sf::Level::rect.setPosition(pos);
-	*/
+	
 }
 
 // Render level
